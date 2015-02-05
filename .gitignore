@@ -1,3 +1,5 @@
 gwt-unitCache
 *.DS_Store
 *.class
+compilation-mappings.txt
+*.cache.js
